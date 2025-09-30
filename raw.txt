@@ -1,244 +1,245 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+Title: Essere citati, non solo trovati: le nuove regole dell’AI
 
-\f0\fs24 \cf0 \'b7 Il traffico organico dai motori di ricerca sta crollando: **AI summaries hanno cambiato le regole**.\
-\
-\'b7 Gli editori reagiscono in quattro modi: cause legali, accordi, blocchi, regolamentazioni (pi\'f9 il nuovo modello **Pay per Crawl**).\
-\
-\'b7 Il retail e l\'92ecommerce non possono aspettare: **la sfida non \'e8 pi\'f9 farsi trovare, ma farsi citare**.\
-\
-\'b7 **GEO (Generative Engine Optimization)** diventa il nuovo campo di gioco: contenuti pensati per essere letti, interpretati e citati dalle AI.\
-\
-\'b7 **Il rischio? L\'92invisibilit\'e0**.\
-\
-Lavoro nel digital advertising da 25 anni e posso serenamente affermare che non mi sono mai annoiato: ogni anno nuove tecnologie, nuove metriche e nuovi player contribuiscono a rendere il nostro settore uno dei pi\'f9 interessanti che c\'92\'e8.\
-\
-L\'92ultima grande novit\'e0 che ho intercettato? Eccola:\
-\
-Da circa un anno e mezzo ho cominciato a interessarmi al trend del momento, la **GEO**, acronimo non fra i pi\'f9 evocativi che sta per Generative Engine Optimization, che Google AI Overviews definisce cos\'ec:\
-\
-\'93_\'e8 una nuova metodologia di ottimizzazione dei contenuti digitali che si concentra sulla loro visibilit\'e0 all\'92interno dei motori di ricerca basati sull\'92intelligenza artificiale generativa, come ChatGPT, Gemini o Google AI Overviews_\'94.\
-\
-Fino a non troppo tempo fa se ne parlava quasi esclusivamente in blog e forum molto specializzati e molto da nerd, poi sempre di pi\'f9 sulla trade press in tutto il mondo. Per questo quando ho letto di GEO nell\'92ottimo articolo pubblicato da poco su Il Post sono rimasto sorpreso (NB: tutti i link delle fonti sono alla fine dell\'92articolo).\
-\
-Probabilmente a causa del legame con l\'92AI e gli LLM, o forse perch\'e9 anche la redazione de Il Post ha notato una qualche flessione di traffico organico da Google, fatto sta che il concetto \'e8 uscito dalle sale riunioni nelle quali alcuni di noi ne hanno parlato negli ultimi mesi ed \'e8 stato sdoganato.\
-\
-E quando qualcosa viene sdoganata, capita che si crei un po\'92 di confusione; quindi ho pensato di condividere qui alcune cose che ho imparato e un po\'92 di risorse per chi volesse approfondire.\
-\
-Parto da una considerazione: il modo di comunicare ha subito una trasformazione radicale, antropologica, generata e alimentata da WhatsApp, al quale va riconosciuto un merito: ha messo davvero tutti d\'92accordo, ma ha anche peggiorato le nostre capacit\'e0 di dialogare.\
-\
-Un esempio? Quando troviamo un ristorante su Google Maps, prima di chiamare verifichiamo sempre se \'e8 possibile prenotare dall\'92app. Vero?\
-\
-Non telefoniamo pi\'f9 (o se lo facciamo, lo facciamo solo se veramente urgente), mandiamo un messaggio. Non mandiamo pi\'f9 email ai colleghi, usiamo Slack. La chat \'e8 lo standard, tutto il resto eccezione.\
-\
-Se partiamo da questo, diventa facilissimo capire perch\'e9 ChatGPT sta avendo tanto successo: riproduce fedelmente il modo di comunicare a cui siamo abituati, l\'92unico che sappiamo usare tutti, l\'92unico che elimina l\'92imbarazzo di parlarci o di scrivere in maniera articolata.\
-\
-Ecco i dati di adozione di ChatGPT confrontati con quelli di Google, impressionanti vero?\
-\
-[![Image 1: A graph on a white background AI-generated content may be incorrect.](https://substackcdn.com/image/fetch/$s_!TX7W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd06db05-0244-41f0-90be-977c14670921_1688x1262.png)](https://substackcdn.com/image/fetch/$s_!TX7W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd06db05-0244-41f0-90be-977c14670921_1688x1262.png)\
-\
-Quindi sul mercato oggi abbiamo tante soluzioni che:\
-\
-\'b7 riusciamo a usare immediatamente\
-\
-\'b7 parlano come noi\
-\
-\'b7 si adeguano al nostro tono\
-\
-\'b7 comunicano come ci piace comunicare\
-\
-\'b7 ci forniscono informazioni sostanzialmente affidabili\
-\
-\'b7 e ovviamente hanno avuto un successo travolgente\
-\
-Le prime conseguenze per il mondo del media sono sotto gli occhi di tutti:\
-\
-la principale fonte di traffico che ha praticamente tenuto in piedi il mercato per oltre 20 anni ha cominciato a ridurre drasticamente gli utenti che dopo una ricerca cliccano e visitano un sito.\
-\
-Drasticamente.\
-\
-Tutto a causa delle _Google AI Overviews_, aka AIO, ma non solo, perch\'e9 l\'92enorme massa di utenti dei vari LLM \'e8 passata in maniera naturale e con grande soddisfazione da **ricerca a conversazione**.\
-\
-Infatti, quest\'92anno a Cannes l\'92evento a mio avviso pi\'f9 importante \'e8 stato l\'92intervento di Matthew Prince, CEO di Cloudflare (per capirci, una struttura che gestisce il 20% del traffico internet globale).\
-\
-Ecco la sintesi dei punti salienti (il link al video completo \'e8 in fondo all\'92articolo):\
-\
-*   Secondo Prince, gli editori affrontano una minaccia esistenziale nell\'92era dell\'92AI: il calo del traffico da motori di ricerca e gli AI summary mettono a rischio i loro modelli di business\
-\
-*   Devono agire per assicurarsi una giusta compensazione per i loro contenuti\
-\
-*   **10 anni fa**: Google scansionava 2 pagine per ogni visitatore inviato a un publisher, cio\'e8 diceva: \'93fammi accedere e leggere le tue pagine, in cambio ti dar\'f2 traffico, cos\'ec ti sostieni con pubblicit\'e0, vendite o sottoscrizioni\'94\
-\
-*   **6 mesi fa**, le cose apparivano gi\'e0 molto diverse:\
-\
-    *   Google: 6 pagine scansionate: 1 visitatore\
-\
-    *   OpenAI: 250:1\
-\
-    *   Anthropic: 6.000:1\
-\
-*   **Oggi**, drammatiche:\
-\
-    *   **Google: 18:1**\
-\
-    *   **OpenAI: 1.500:1**\
-\
-    *   **Anthropic: 60.000:1**\
-\
-*   Anche se AI e search mostrano link alle fonti, gli utenti non li seguono pi\'f9.\
-\
-*   Cresce la fiducia diretta nelle AI: le persone leggono i riassunti, non l\'92articolo originale.\
-\
-*   Il web del futuro sar\'e0 sempre pi\'f9 dominato da AI summaries piuttosto che da contenuti originali.\
-\
-*   Senza click, gli editori perdono il modello pubblicitario che li ha sostenuti per 20+ anni.\
-\
-In pratica: traffico organico in caduta libera, AI che \'93consuma\'94 contenuti senza restituire valore, e editori costretti a ripensare tutto il modello di monetizzazione.\
-\
-Ovviamente, Prince aveva gi\'e0 una soluzione in mente, dal mio punto di vista visionaria, ma resta qualche dubbio sul fatto se sar\'e0 applicabile da tutti: il **Pay per Crawl**.\
-\
-*   L\'92editore non \'e8 pi\'f9 obbligato a fare una scelta binaria, \'93aperto ai bot AI\'94 oppure \'93completamente bloccato\'94, ma pu\'f2 richiedere un pagamento ogni volta che un bot AI (crawler) accede ai suoi contenuti.\
-\
-*   Se il bot non \'93offre\'94 il pagamento, riceve una risposta **HTTP 402 Payment Required**, che indica che per accedere serve un prezzo.\
-\
-*   L\'92editore pu\'f2 impostare tre regimi per ciascun crawler:\
-\
-\'95 \'93Allow\'94 \uc0\u8594  accesso libero\
-\
-\'95 \'93Charge\'94 \uc0\u8594  accesso solo dopo pagamento\
-\
-\'95 \'93Block\'94 \uc0\u8594  nessun accesso possibile\
-\
-*   Cloudflare, (ovviamente!) funge da Merchant of Record, gestendo il meccanismo di pagamento, fatturazione e distribuzione agli editori.\
-\
-*   Offre una via di mezzo: non pi\'f9 solo bloccare o cedere contenuti, ma monetizzare l\'92accesso ai contenuti dalle AI.\
-\
-*   Potenzialmente cambia le regole del gioco: i bot AI dovranno pagare per accedere a testo, articoli, contenuti protetti.\
-\
-*   \'c8 ancora in beta privata, ma se prende piede potrebbe diventare un meccanismo standard di mercato: **i contenuti valgono non solo quando li leggi, ma anche quando vengono scansionati per generare risposte AI**.\
-\
-Un nuovo modello di business che sicuramente verr\'e0 copiato dai concorrenti di Cloudflare, ma che pone delle domande; in particolare, gli LLM pagheranno tutti o decideranno caso per caso? Agli esclusi che opzione resta? Rimanere fuori per sempre o arrendersi e aprire a tutti?\
-\
-Ho l\'92impressione che, a meno di alleanze molto ampie e significative, **molti editori resteranno tagliati fuori**.\
-\
-Facciamo il punto.\
-\
-Prendono dati, li usano, ce li presentano, arrivederci e grazie.\
-\
-In generale, come abbiamo visto accadere gi\'e0 tante volte, la maggioranza non ha intuito l\'92impatto che questa rivoluzione avrebbe avuto.\
-\
-Ora che ce ne stiamo tutti rendendo conto, vediamo reazioni diverse a diversi livelli; nel mondo dell\'92editoria, direi che ci sono principalmente quattro direttrici (pi\'f9 ovviamente l\'92opzione Pay per Crawl vista sopra, ma aspettiamo di vedere come evolver\'e0):\
-\
-Penske Media, editore di Rolling Stone, ha fatto causa a Google sostenendo che \'93condiziona\'94 la comparsa nei risultati di ricerca al permesso di usare gli stessi contenuti per i suoi sistemi AI. In altre parole: se non acconsenti all\'92uso per le AIO, rischi di non essere pi\'f9 visibile. Conseguenza: una caduta delle entrate da affiliazioni di circa un terzo attribuita alla diminuzione del traffico.\
-\
-A maggio 2024, News Corp ha firmato un accordo, 250 milioni di dollari in cinque anni, con OpenAI che consente l\'92uso di tutti i suoi contenuti.\
-\
-50M all\'92anno per una societ\'e0 che vale secondo indiscrezioni sul nuovo round 500B sono peanuts, ma ovviamente l\'92ansia del bonus del Quarter vince sempre.\
-\
-Il _New York Times_ ha gi\'e0 messo delle protezioni: nel suo file **robots.txt** ha esplicitamente escluso **GPTBot**, il crawler di OpenAI usato per addestrare modelli AI. In termini legali, la linea del NYT \'e8 chiara: \'93_non autorizziamo l\'92uso dei nostri contenuti per Generative Search o per training AI senza un accordo scritto esplicito_\'94.\
-\
-L\'92IETF (Internet Engineering Task Force, per capirci, quelli che decidono come funziona internet dal punto di vista tecnologico) sta discutendo nuovi standard che potrebbero permettere ai siti di bloccare i bot AI e gli Answer Engine (ricordate robots.txt?), continuando per\'f2 a lasciare accesso ai motori di ricerca tradizionali (cio\'e8 solo quelli che per loro natura generano click).\
-\
-Va da s\'e9 che player come Google, Microsoft e OpenAI stiano gi\'e0 cercando di ridurre la portata di queste regole. Il nodo \'e8 capire cosa significa davvero \'93uso legittimo\'94: search o anche risposta senza click?\
-\
-E nel mondo retail / ecommerce?\
-\
-Beh, qui secondo me la partita \'e8 diversa e molto pi\'f9 aperta; e, come spesso capita, il punto \'e8 la velocit\'e0 con la quale ci si muover\'e0 nei prossimi pochi mesi (perch\'e9 per chi non lo far\'e0 ora, beh, non la vedo benissimo).\
-\
-Vediamo per esempio qualche info interessante relativa al **turismo**.\
-\
-Organizzare una vacanza non \'e8 mai semplice: anche se abbiamo idee chiarissime su destinazione, periodo e budget, difficilmente le funzionalit\'e0 offerte dalle piattaforme di prenotazione riescono a soddisfare tutte le nostre esigenze.\
-\
-Ed \'e8 cos\'ec che, secondo un sondaggio del Boston Consulting Group, abbiamo cominciato a utilizzare la GenAI in maniera massiva: nel 2025, **un viaggiatore su cinque in occidente, e due su tre in Asia**, ha utilizzato ChatGPT o altri LLM per ideare, pianificare e prenotare le vacanze estive.\
-\
-Un numero impressionante ma non sorprendente: la GenAI \'e8 sempre disponibile e paziente, permette di lasciare e riprendere la conversazione ogni volta che si vuole, capisce le esigenze e riesce a orientarsi fra centinaia di scelte indirizzando verso quelle pi\'f9 adatte in pochi istanti e, soprattutto, agli occhi dei consumatori \'e8 percepita come una guida obiettiva, non legata a interessi commerciali.\
-\
-Ecco cosa serve per non restare tagliati fuori:\
-\
-Come dicevo prima, il passaggio da ricerca a conversazione \'e8 gi\'e0 avvenuto.\
-\
-Quindi, non devo farmi trovare, non serve (quasi) pi\'f9. Devo farmi citare.\
-\
-E per farmi citare devo avere in anticipo risposte a domande che devono essere ancora fatte.\
-\
-Semplice no?\
-\
-Il rischio? Diventare invisibili. Facciamo un esempio.\
-\
-Ecco ad esempio il prompt che ho usato per decidere quale macchina comprare a mio figlio:\
-\
-_Sto pensando di comprare una macchina per mio figlio che ha appena preso la patente. Budget massimo: per l\'92anticipo 5.000\'80, per le rate 400\'80. La user\'e0 principalmente in citt\'e0 ma anche per weekend con gli amici, quindi 5 posti e 5 porte. Viviamo a Roma e deve poter circolare anche in centro (basta ibrida). Deve avere radio e schermo con Apple Car. Cosa consigli?_\
-\
-Ecco la risposta di ChatGPT (sintetizzata):\
-\
-_**Modelli consigliati (5 porte / 5 posti / CarPlay):**_\
-\
-\'b7 _**Toyota Yaris Hybrid** \'96 regina del traffico romano, consumi reali bassissimi; promo con anticipo ~6.5k e rate molto contenute in VFG (con 5k di anticipo resti ampiamente <400\'80/mese). CarPlay di serie dagli allestimenti attuali._\
-\
-\'b7 _**Renault Clio E-Tech Full Hybrid** \'96 comoda, brillante in citt\'e0; promo frequenti con anticipo ~5\'966k e rate \'93leggere\'94 + maxi-rata. CarPlay presente_\
-\
-\'b7 _**Peugeot 208 Hybrid** \'96 guida piacevole, infotainment con **Wireless CarPlay** in molte versioni. Offerte con anticipo ~5.7k e rate molto basse + maxi-rata._\
-\
-\'b7 _**Dacia Sandero Stepway Eco-G (GPL)** \'96 super economica da mantenere, 5 porte, CarPlay nelle versioni giuste; offerte tipo anticipo ~4.950\'80 + 36 rate basse + maxi-rata finale._\
-\
-Ecco alcuni modelli che mancano fra quelli raccomandati (fra i quali quello che alla fine abbiamo scelto), ma ce ne sarebbero molti altri:\
-\
-\'b7 MG3 Hybrid+\
-\
-\'b7 Hyundai i20\
-\
-\'b7 Grande Panda\
-\
-Definito quindi che la sfida oggi si \'e8 spostata su un altro piano, cosa deve fare concretamente un brand per unirsi alle centinaia di milioni di conversazioni che potrebbero essere rilevanti? Cosa deve fare FIAT per suggerirmi la Grande Panda? E Hyundai?\
-\
-1.   **Principio guida**\
-\
-Ripensare come esponiamo i messaggi: devono essere **interessanti, leggibili, interpretabili e citabili** dagli LLM.\
-\
-2.   **Assessment (rilevanza attuale)**\
-\
-**Valutare** in modo rigoroso se e quanto siamo oggi rilevanti/citati nelle risposte degli LLM e dove manchiamo.\
-\
-3.   **Contenuti (cosa scrivere)**\
-\
-**Produrre** ci\'f2 che non scrivevamo: risposte alle domande chiave (anche future), FAQ, guide, schede chiare e complete.\
-\
-4.   **Struttura (come pubblicare)**\
-\
-**Organizzare** i contenuti con schemi coerenti (titoli, elenchi, tabelle, campi dedicati) per facilitarne la lettura e la citabilit\'e0.\
-\
-5.   **Monitoraggio & ottimizzazione continua**\
-\
-**Misurare** regolarmente la visibilit\'e0/citazioni negli LLM e **adattare** contenuti e struttura (gli engine evolvono di continuo).\
-\
-6.   **Partecipare alle conversazioni**\
-\
-**Presenziare** dove avvengono (assistenti, chat, Q&A): **fornire risposte, aggiornare, arricchire** e mantenere il brand \'93dentro\'94 i dialoghi.\
-\
-\'c8 un percorso nuovo che necessiter\'e0 di tanta sperimentazione, ma \'e8 un percorso che va intrapreso il prima possibile, perch\'e9 imparare a sviluppare e presentare contenuti che parlino con la stessa chiarezza agli umani e alle macchine insieme \'e8 la sfida dei prossimi anni, e chi imparer\'e0 prima a farlo sar\'e0 protagonista della prossima stagione del digitale.\
-\
-[https://www.ilpost.it/2025/09/14/cambia-seo-ai/](https://www.ilpost.it/2025/09/14/cambia-seo-ai/) (Articolo Il Post)\
-\
-[https://www.bondcap.com/report/pdf/Trends_Artificial_Intelligence.pdf](https://www.bondcap.com/report/pdf/Trends_Artificial_Intelligence.pdf) (dati adozione AI)\
-\
-[https://x.com/carlhendy/status/1938465616442306871](https://x.com/carlhendy/status/1938465616442306871) (CEO Cloudflare @ Cannes)\
-\
-[https://blog.cloudflare.com/introducing-pay-per-crawl/](https://blog.cloudflare.com/introducing-pay-per-crawl/) (modello pay per crawl, Cloudflare)\
-\
-[https://www.reuters.com/sustainability/boards-policy-regulation/rolling-stone-billboard-owner-penske-sues-google-over-ai-overviews-2025-09-14/](https://www.reuters.com/sustainability/boards-policy-regulation/rolling-stone-billboard-owner-penske-sues-google-over-ai-overviews-2025-09-14/) (Penske Media fa causa a Google)\
-\
-[https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/) (accordo News Corp \'96 OpenAI)\
-\
-[https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8](https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8) (NYT blocca OpenAI)\
-\
-[https://www.businessinsider.com/google-microsoft-openai-fight-standards-limit-ai-access-websites-2025-9](https://www.businessinsider.com/google-microsoft-openai-fight-standards-limit-ai-access-websites-2025-9)(IETF lavora a standard per bloccare i bot AI)\
-\
-[https://www.bcg.com/publications/2025/the-15-trillion-opportunity-in-leisure-travel](https://www.bcg.com/publications/2025/the-15-trillion-opportunity-in-leisure-travel) (report travel industry BCG)\
-\
-Bonus Track: gi\'e0 nel 1999 il Cluetrain Manifesto spiegava benissimo il punto nella sua prima tesi, i mercati sono conversazioni:\
-\
-[https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto)}
+URL Source: https://lucadicesare.substack.com/p/essere-citati-non-solo-trovati-le
+
+Published Time: 2025-09-28T08:23:46+00:00
+
+Markdown Content:
+[English version here](https://lucadicesare.substack.com/p/being-cited-not-just-found-the-new)
+
+· Il traffico organico dai motori di ricerca sta crollando: **AI summaries hanno cambiato le regole**.
+
+· Gli editori reagiscono in quattro modi: cause legali, accordi, blocchi, regolamentazioni (più il nuovo modello **Pay per Crawl**).
+
+· Il retail e l’ecommerce non possono aspettare: **la sfida non è più farsi trovare, ma farsi citare**.
+
+· **GEO (Generative Engine Optimization)** diventa il nuovo campo di gioco: contenuti pensati per essere letti, interpretati e citati dalle AI.
+
+· **Il rischio? L’invisibilità**.
+
+Lavoro nel digital advertising da 25 anni e posso serenamente affermare che non mi sono mai annoiato: ogni anno nuove tecnologie, nuove metriche e nuovi player contribuiscono a rendere il nostro settore uno dei più interessanti che c’è.
+
+L’ultima grande novità che ho intercettato? Eccola:
+
+Da circa un anno e mezzo ho cominciato a interessarmi al trend del momento, la **GEO**, acronimo non fra i più evocativi che sta per Generative Engine Optimization, che Google AI Overviews definisce così:
+
+“_è una nuova metodologia di ottimizzazione dei contenuti digitali che si concentra sulla loro visibilità all’interno dei motori di ricerca basati sull’intelligenza artificiale generativa, come ChatGPT, Gemini o Google AI Overviews_”.
+
+Fino a non troppo tempo fa se ne parlava quasi esclusivamente in blog e forum molto specializzati e molto da nerd, poi sempre di più sulla trade press in tutto il mondo. Per questo quando ho letto di GEO nell’ottimo articolo pubblicato da poco su Il Post sono rimasto sorpreso (NB: tutti i link delle fonti sono alla fine dell’articolo).
+
+Probabilmente a causa del legame con l’AI e gli LLM, o forse perché anche la redazione de Il Post ha notato una qualche flessione di traffico organico da Google, fatto sta che il concetto è uscito dalle sale riunioni nelle quali alcuni di noi ne hanno parlato negli ultimi mesi ed è stato sdoganato.
+
+E quando qualcosa viene sdoganata, capita che si crei un po’ di confusione; quindi ho pensato di condividere qui alcune cose che ho imparato e un po’ di risorse per chi volesse approfondire.
+
+Parto da una considerazione: il modo di comunicare ha subito una trasformazione radicale, antropologica, generata e alimentata da WhatsApp, al quale va riconosciuto un merito: ha messo davvero tutti d’accordo, ma ha anche peggiorato le nostre capacità di dialogare.
+
+Un esempio? Quando troviamo un ristorante su Google Maps, prima di chiamare verifichiamo sempre se è possibile prenotare dall’app. Vero?
+
+Non telefoniamo più (o se lo facciamo, lo facciamo solo se veramente urgente), mandiamo un messaggio. Non mandiamo più email ai colleghi, usiamo Slack. La chat è lo standard, tutto il resto eccezione.
+
+Se partiamo da questo, diventa facilissimo capire perché ChatGPT sta avendo tanto successo: riproduce fedelmente il modo di comunicare a cui siamo abituati, l’unico che sappiamo usare tutti, l’unico che elimina l’imbarazzo di parlarci o di scrivere in maniera articolata.
+
+Ecco i dati di adozione di ChatGPT confrontati con quelli di Google, impressionanti vero?
+
+
+Quindi sul mercato oggi abbiamo tante soluzioni che:
+
+· riusciamo a usare immediatamente
+
+· parlano come noi
+
+· si adeguano al nostro tono
+
+· comunicano come ci piace comunicare
+
+· ci forniscono informazioni sostanzialmente affidabili
+
+· e ovviamente hanno avuto un successo travolgente
+
+Le prime conseguenze per il mondo del media sono sotto gli occhi di tutti:
+
+la principale fonte di traffico che ha praticamente tenuto in piedi il mercato per oltre 20 anni ha cominciato a ridurre drasticamente gli utenti che dopo una ricerca cliccano e visitano un sito.
+
+Drasticamente.
+
+Tutto a causa delle _Google AI Overviews_, aka AIO, ma non solo, perché l’enorme massa di utenti dei vari LLM è passata in maniera naturale e con grande soddisfazione da **ricerca a conversazione**.
+
+Infatti, quest’anno a Cannes l’evento a mio avviso più importante è stato l’intervento di Matthew Prince, CEO di Cloudflare (per capirci, una struttura che gestisce il 20% del traffico internet globale).
+
+Ecco la sintesi dei punti salienti (il link al video completo è in fondo all’articolo):
+
+*   Secondo Prince, gli editori affrontano una minaccia esistenziale nell’era dell’AI: il calo del traffico da motori di ricerca e gli AI summary mettono a rischio i loro modelli di business
+
+*   Devono agire per assicurarsi una giusta compensazione per i loro contenuti
+
+*   **10 anni fa**: Google scansionava 2 pagine per ogni visitatore inviato a un publisher, cioè diceva: “fammi accedere e leggere le tue pagine, in cambio ti darò traffico, così ti sostieni con pubblicità, vendite o sottoscrizioni”
+
+*   **6 mesi fa**, le cose apparivano già molto diverse:
+
+    *   Google: 6 pagine scansionate: 1 visitatore
+
+    *   OpenAI: 250:1
+
+    *   Anthropic: 6.000:1
+
+*   **Oggi**, drammatiche:
+
+    *   **Google: 18:1**
+
+    *   **OpenAI: 1.500:1**
+
+    *   **Anthropic: 60.000:1**
+
+*   Anche se AI e search mostrano link alle fonti, gli utenti non li seguono più.
+
+*   Cresce la fiducia diretta nelle AI: le persone leggono i riassunti, non l’articolo originale.
+
+*   Il web del futuro sarà sempre più dominato da AI summaries piuttosto che da contenuti originali.
+
+*   Senza click, gli editori perdono il modello pubblicitario che li ha sostenuti per 20+ anni.
+
+In pratica: traffico organico in caduta libera, AI che “consuma” contenuti senza restituire valore, e editori costretti a ripensare tutto il modello di monetizzazione.
+
+Ovviamente, Prince aveva già una soluzione in mente, dal mio punto di vista visionaria, ma resta qualche dubbio sul fatto se sarà applicabile da tutti: il **Pay per Crawl**.
+
+*   L’editore non è più obbligato a fare una scelta binaria, “aperto ai bot AI” oppure “completamente bloccato”, ma può richiedere un pagamento ogni volta che un bot AI (crawler) accede ai suoi contenuti.
+
+*   Se il bot non “offre” il pagamento, riceve una risposta **HTTP 402 Payment Required**, che indica che per accedere serve un prezzo.
+
+*   L’editore può impostare tre regimi per ciascun crawler:
+
+• “Allow” → accesso libero
+
+• “Charge” → accesso solo dopo pagamento
+
+• “Block” → nessun accesso possibile
+
+*   Cloudflare, (ovviamente!) funge da Merchant of Record, gestendo il meccanismo di pagamento, fatturazione e distribuzione agli editori.
+
+*   Offre una via di mezzo: non più solo bloccare o cedere contenuti, ma monetizzare l’accesso ai contenuti dalle AI.
+
+*   Potenzialmente cambia le regole del gioco: i bot AI dovranno pagare per accedere a testo, articoli, contenuti protetti.
+
+*   È ancora in beta privata, ma se prende piede potrebbe diventare un meccanismo standard di mercato: **i contenuti valgono non solo quando li leggi, ma anche quando vengono scansionati per generare risposte AI**.
+
+Un nuovo modello di business che sicuramente verrà copiato dai concorrenti di Cloudflare, ma che pone delle domande; in particolare, gli LLM pagheranno tutti o decideranno caso per caso? Agli esclusi che opzione resta? Rimanere fuori per sempre o arrendersi e aprire a tutti?
+
+Ho l’impressione che, a meno di alleanze molto ampie e significative, **molti editori resteranno tagliati fuori**.
+
+Facciamo il punto.
+
+Prendono dati, li usano, ce li presentano, arrivederci e grazie.
+
+In generale, come abbiamo visto accadere già tante volte, la maggioranza non ha intuito l’impatto che questa rivoluzione avrebbe avuto.
+
+Ora che ce ne stiamo tutti rendendo conto, vediamo reazioni diverse a diversi livelli; nel mondo dell’editoria, direi che ci sono principalmente quattro direttrici (più ovviamente l’opzione Pay per Crawl vista sopra, ma aspettiamo di vedere come evolverà):
+
+Penske Media, editore di Rolling Stone, ha fatto causa a Google sostenendo che “condiziona” la comparsa nei risultati di ricerca al permesso di usare gli stessi contenuti per i suoi sistemi AI. In altre parole: se non acconsenti all’uso per le AIO, rischi di non essere più visibile. Conseguenza: una caduta delle entrate da affiliazioni di circa un terzo attribuita alla diminuzione del traffico.
+
+A maggio 2024, News Corp ha firmato un accordo, 250 milioni di dollari in cinque anni, con OpenAI che consente l’uso di tutti i suoi contenuti.
+
+50M all’anno per una società che vale secondo indiscrezioni sul nuovo round 500B sono peanuts, ma ovviamente l’ansia del bonus del Quarter vince sempre.
+
+Il _New York Times_ ha già messo delle protezioni: nel suo file **robots.txt** ha esplicitamente escluso **GPTBot**, il crawler di OpenAI usato per addestrare modelli AI. In termini legali, la linea del NYT è chiara: “_non autorizziamo l’uso dei nostri contenuti per Generative Search o per training AI senza un accordo scritto esplicito_”.
+
+L’IETF (Internet Engineering Task Force, per capirci, quelli che decidono come funziona internet dal punto di vista tecnologico) sta discutendo nuovi standard che potrebbero permettere ai siti di bloccare i bot AI e gli Answer Engine (ricordate robots.txt?), continuando però a lasciare accesso ai motori di ricerca tradizionali (cioè solo quelli che per loro natura generano click).
+
+Va da sé che player come Google, Microsoft e OpenAI stiano già cercando di ridurre la portata di queste regole. Il nodo è capire cosa significa davvero “uso legittimo”: search o anche risposta senza click?
+
+E nel mondo retail / ecommerce?
+
+Beh, qui secondo me la partita è diversa e molto più aperta; e, come spesso capita, il punto è la velocità con la quale ci si muoverà nei prossimi pochi mesi (perché per chi non lo farà ora, beh, non la vedo benissimo).
+
+Vediamo per esempio qualche info interessante relativa al **turismo**.
+
+Organizzare una vacanza non è mai semplice: anche se abbiamo idee chiarissime su destinazione, periodo e budget, difficilmente le funzionalità offerte dalle piattaforme di prenotazione riescono a soddisfare tutte le nostre esigenze.
+
+Ed è così che, secondo un sondaggio del Boston Consulting Group, abbiamo cominciato a utilizzare la GenAI in maniera massiva: nel 2025, **un viaggiatore su cinque in occidente, e due su tre in Asia**, ha utilizzato ChatGPT o altri LLM per ideare, pianificare e prenotare le vacanze estive.
+
+Un numero impressionante ma non sorprendente: la GenAI è sempre disponibile e paziente, permette di lasciare e riprendere la conversazione ogni volta che si vuole, capisce le esigenze e riesce a orientarsi fra centinaia di scelte indirizzando verso quelle più adatte in pochi istanti e, soprattutto, agli occhi dei consumatori è percepita come una guida obiettiva, non legata a interessi commerciali.
+
+Ecco cosa serve per non restare tagliati fuori:
+
+Come dicevo prima, il passaggio da ricerca a conversazione è già avvenuto.
+
+Quindi, non devo farmi trovare, non serve (quasi) più. Devo farmi citare.
+
+E per farmi citare devo avere in anticipo risposte a domande che devono essere ancora fatte.
+
+Semplice no?
+
+Il rischio? Diventare invisibili. Facciamo un esempio.
+
+Ecco ad esempio il prompt che ho usato per decidere quale macchina comprare a mio figlio:
+
+_Sto pensando di comprare una macchina per mio figlio che ha appena preso la patente. Budget massimo: per l’anticipo 5.000€, per le rate 400€. La userà principalmente in città ma anche per weekend con gli amici, quindi 5 posti e 5 porte. Viviamo a Roma e deve poter circolare anche in centro (basta ibrida). Deve avere radio e schermo con Apple Car. Cosa consigli?_
+
+Ecco la risposta di ChatGPT (sintetizzata):
+
+_**Modelli consigliati (5 porte / 5 posti / CarPlay):**_
+
+· _**Toyota Yaris Hybrid** – regina del traffico romano, consumi reali bassissimi; promo con anticipo ~6.5k e rate molto contenute in VFG (con 5k di anticipo resti ampiamente <400€/mese). CarPlay di serie dagli allestimenti attuali._
+
+· _**Renault Clio E-Tech Full Hybrid** – comoda, brillante in città; promo frequenti con anticipo ~5–6k e rate “leggere” + maxi-rata. CarPlay presente_
+
+· _**Peugeot 208 Hybrid** – guida piacevole, infotainment con **Wireless CarPlay** in molte versioni. Offerte con anticipo ~5.7k e rate molto basse + maxi-rata._
+
+· _**Dacia Sandero Stepway Eco-G (GPL)** – super economica da mantenere, 5 porte, CarPlay nelle versioni giuste; offerte tipo anticipo ~4.950€ + 36 rate basse + maxi-rata finale._
+
+Ecco alcuni modelli che mancano fra quelli raccomandati (fra i quali quello che alla fine abbiamo scelto), ma ce ne sarebbero molti altri:
+
+· MG3 Hybrid+
+
+· Hyundai i20
+
+· Grande Panda
+
+Definito quindi che la sfida oggi si è spostata su un altro piano, cosa deve fare concretamente un brand per unirsi alle centinaia di milioni di conversazioni che potrebbero essere rilevanti? Cosa deve fare FIAT per suggerirmi la Grande Panda? E Hyundai?
+
+1.   **Principio guida**
+
+Ripensare come esponiamo i messaggi: devono essere **interessanti, leggibili, interpretabili e citabili** dagli LLM.
+
+2.   **Assessment (rilevanza attuale)**
+
+**Valutare** in modo rigoroso se e quanto siamo oggi rilevanti/citati nelle risposte degli LLM e dove manchiamo.
+
+3.   **Contenuti (cosa scrivere)**
+
+**Produrre** ciò che non scrivevamo: risposte alle domande chiave (anche future), FAQ, guide, schede chiare e complete.
+
+4.   **Struttura (come pubblicare)**
+
+**Organizzare** i contenuti con schemi coerenti (titoli, elenchi, tabelle, campi dedicati) per facilitarne la lettura e la citabilità.
+
+5.   **Monitoraggio & ottimizzazione continua**
+
+**Misurare** regolarmente la visibilità/citazioni negli LLM e **adattare** contenuti e struttura (gli engine evolvono di continuo).
+
+6.   **Partecipare alle conversazioni**
+
+**Presenziare** dove avvengono (assistenti, chat, Q&A): **fornire risposte, aggiornare, arricchire** e mantenere il brand “dentro” i dialoghi.
+
+È un percorso nuovo che necessiterà di tanta sperimentazione, ma è un percorso che va intrapreso il prima possibile, perché imparare a sviluppare e presentare contenuti che parlino con la stessa chiarezza agli umani e alle macchine insieme è la sfida dei prossimi anni, e chi imparerà prima a farlo sarà protagonista della prossima stagione del digitale.
+
+[https://www.ilpost.it/2025/09/14/cambia-seo-ai/](https://www.ilpost.it/2025/09/14/cambia-seo-ai/) (Articolo Il Post)
+
+[https://www.bondcap.com/report/pdf/Trends_Artificial_Intelligence.pdf](https://www.bondcap.com/report/pdf/Trends_Artificial_Intelligence.pdf) (dati adozione AI)
+
+[https://x.com/carlhendy/status/1938465616442306871](https://x.com/carlhendy/status/1938465616442306871) (CEO Cloudflare @ Cannes)
+
+[https://blog.cloudflare.com/introducing-pay-per-crawl/](https://blog.cloudflare.com/introducing-pay-per-crawl/) (modello pay per crawl, Cloudflare)
+
+[https://www.reuters.com/sustainability/boards-policy-regulation/rolling-stone-billboard-owner-penske-sues-google-over-ai-overviews-2025-09-14/](https://www.reuters.com/sustainability/boards-policy-regulation/rolling-stone-billboard-owner-penske-sues-google-over-ai-overviews-2025-09-14/) (Penske Media fa causa a Google)
+
+[https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/) (accordo News Corp – OpenAI)
+
+[https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8](https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8) (NYT blocca OpenAI)
+
+[https://www.businessinsider.com/google-microsoft-openai-fight-standards-limit-ai-access-websites-2025-9](https://www.businessinsider.com/google-microsoft-openai-fight-standards-limit-ai-access-websites-2025-9)(IETF lavora a standard per bloccare i bot AI)
+
+[https://www.bcg.com/publications/2025/the-15-trillion-opportunity-in-leisure-travel](https://www.bcg.com/publications/2025/the-15-trillion-opportunity-in-leisure-travel) (report travel industry BCG)
+
+Bonus Track: già nel 1999 il Cluetrain Manifesto spiegava benissimo il punto nella sua prima tesi, i mercati sono conversazioni:
+
+[https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto)
